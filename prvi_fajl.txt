@@ -1,2 +1,2 @@
 "Pozdrav iz prvog fajla..."
-"...moje nove grane"
+"...sa svih grana"
