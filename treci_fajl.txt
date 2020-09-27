@@ -1,1 +1,1 @@
-"Pozdrav iz treceg fajla"
+"Pozdrav iz treceg fajla!"
